@@ -30,12 +30,12 @@ O sistema permite o cadastro de clientes, companhias aéreas, aeroportos, aerona
 ### Estrutura do Projeto
 
 ```text
-docs/
+DOCS/
 ├── Explicação_Projeto.md
 ├── DER-Diagrama.png
 └── Dicionário_Dados.md
 
-sql/
+SQL/
 ├── 01 criacao tabelas.sql
 ├── 02 inserts.sql
 └── 03 consultas.sql
